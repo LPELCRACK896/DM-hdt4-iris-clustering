@@ -1,4 +1,9 @@
 # Minería de datos Hoja de trabajo 4: Segmentación de Especies con Cluster Analysis
+
+## Autores
+- Guillermo Furlán
+- Luis Pedro Gonzalez Aldana
+## Resumen
 El conjunto de datos de la flor Iris es uno de los más populares para el Aprendizaje de Máquina (ML). Si no lo conocen, pueden leer sobre él en:
 
 https://en.wikipedia.org/wiki/Iris_flower_data_set
