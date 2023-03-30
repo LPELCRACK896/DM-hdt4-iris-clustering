@@ -108,6 +108,6 @@ def get_optimal_k(feature_1, feature_2):
     print(f"El k optimo encontrado para el clustering con {feature_1} y {feature_2}: {optimal_k}")
 
 if __name__ == "__main__":
-    # iris_clustering("sepal_length", "sepal_width", 3) #Seccion 1
-    # iris_clustering("petal_length", "petal_width", 3) #Seccion 2
+    iris_clustering("sepal_length", "sepal_width", 3) #Seccion 1
+    iris_clustering("petal_length", "petal_width", 3) #Seccion 2
     get_optimal_k("petal_length", "petal_width")# section 3
